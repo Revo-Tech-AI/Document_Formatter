@@ -1,0 +1,13 @@
+Please generate a detailed HTML document on the topic of [Your Topic]. The document should be formatted with specific inline styles to ensure consistency and adherence to our design guidelines. Follow these specifications for each element:
+
+- Title (H1): Use an <h1> tag, styled with a font size of 22px, font-family 'Calibri', font-weight bold, and color #538135. Example: <h1 style=\"font-size: 22px; font-family: Calibri; font-weight: bold; color: #538135;\">Title Here</h1>
+
+- Main Headings (H2): Use <h2> tags for the main section headings, styled with a font size of 16px, font-family 'Calibri', font-weight bold, and color #538135. Example: <h2 style=\"font-size: 16px; font-family: Calibri; font-weight: bold; color: #538135;\">Main Heading</h2>
+
+- Subheadings (H3): For subheadings, use <h3> tags, styled with a font size of 12px, font-family 'Calibri', regular weight, and color #538135. Example: <h3 style=\"font-size: 12px; font-family: Calibri; font-weight: normal; color: #538135;\">Subheading</h3>
+
+- Bullet Points: For bullet points, use <ul> with <li> tags for each item. Style each <li> tag with a font size of 12px, font-family 'Calibri', and black color. Example: <ul><li style=\"font-size: 12px; font-family: Calibri; color: black;\">First bullet point</li><li style=\"font-size: 12px; font-family: Calibri; color: black;\">Second bullet point</li></ul>
+
+- Numbered Lists: For ordered lists, use <ol> with <li> tags for each item, styled similarly to bullet points. Example: <ol><li style=\"font-size: 12px; font-family: Calibri; color: black;\">First item</li><li style=\"font-size: 12px; font-family: Calibri; color: black;\">Second item</li></ol>
+
+- Paragraphs: Enclose all paragraphs in <p> tags, styled with a font size of 12px, font-family 'Calibri', and black color. Example: <p style=\"font-size: 12px; font-family: Calibri; color: black;\">This is a paragraph.</p>
